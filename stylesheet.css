@@ -1,0 +1,42 @@
+* {
+font-family: Arial, Verdana, sans-serif;
+color: #f5ebf0;
+text-align: center;}
+
+nav {
+	background-color: #ab7690;
+	padding: 10px;
+	margin: 10px;}
+
+li {
+	display: inline;
+	padding: 5px;}
+
+body {
+width: 960px;
+margin: 0 auto;
+background-color: #8f014f}
+#content {
+overflow: auto;
+height: 100%;}
+.column1, .column2, .column3 {
+float: left;
+margin: 10px;}
+
+section {
+	overflow: auto;
+	height: 100%;}
+
+main {
+	background-color: #f7a8cf;
+	padding: 10px;
+	margin: 10px;}
+
+article {
+	background-color: #806170;
+	padding: 10px;
+	margin: 10px;}
+	width: 280px;
+	float: left;}
+
+	
